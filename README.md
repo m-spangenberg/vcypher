@@ -20,6 +20,3 @@ In the above table the alphabet has an uncomplicated index that starts at 1 and 
 ##### String: `"THE MAN IN THE HIGH KEEP IS A WIZZARD"`
 ##### Key: `sugarcubes`
 ##### Output: `mclnsqdpyaxcphznzgublvdjrcvti`
-
-#### NOTICE
-This is a toy-cypher, please don't use it to encrypt any sensitive information.
